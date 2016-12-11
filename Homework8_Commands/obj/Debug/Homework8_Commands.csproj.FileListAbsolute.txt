@@ -1,0 +1,6 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\Homework8_Commands\Homework8_Commands\bin\Debug\Homework8_Commands.exe.config
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\Homework8_Commands\Homework8_Commands\obj\Debug\Homework8_Commands.csprojResolveAssemblyReference.cache
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\Homework8_Commands\Homework8_Commands\bin\Debug\Homework8_Commands.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\Homework8_Commands\Homework8_Commands\bin\Debug\Homework8_Commands.pdb
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\Homework8_Commands\Homework8_Commands\obj\Debug\Homework8_Commands.exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\Homework8_Commands\Homework8_Commands\obj\Debug\Homework8_Commands.pdb
