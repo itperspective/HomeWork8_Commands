@@ -1,0 +1,6 @@
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\HomeWork8_Command(Pasha_review)\HomeWork8_Command(Pasha_review)\bin\Debug\HomeWork8_Command(Pasha_review).exe.config
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\HomeWork8_Command(Pasha_review)\HomeWork8_Command(Pasha_review)\bin\Debug\HomeWork8_Command(Pasha_review).exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\HomeWork8_Command(Pasha_review)\HomeWork8_Command(Pasha_review)\bin\Debug\HomeWork8_Command(Pasha_review).pdb
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\HomeWork8_Command(Pasha_review)\HomeWork8_Command(Pasha_review)\obj\Debug\HomeWork8_Command(Pasha_review).csprojResolveAssemblyReference.cache
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\HomeWork8_Command(Pasha_review)\HomeWork8_Command(Pasha_review)\obj\Debug\HomeWork8_Command(Pasha_review).exe
+c:\users\bogdank\documents\visual studio 2015\Projects\NICE_Training\Lesson8\HomeWork8_Command(Pasha_review)\HomeWork8_Command(Pasha_review)\obj\Debug\HomeWork8_Command(Pasha_review).pdb

@@ -4,19 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework8_Commands
+namespace HomeWork8_Command_Pasha_review_
 {
-    public class Light : Command
+    class Light : Command
     {
-        
-        public Light(Executer executer) : base(executer)
+        public Light()
         {
             this.Name = "Turn on the light";
         }
-
-        public override void ExecuteCommand()
+        public override void Execute()
         {
-           executer.Execute(Name);
+            Console.WriteLine("Okay I will turn on the light");
         }
     }
 }

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F26FBC2C-8A71-44D8-9425-7B0EAE05C442}</ProjectGuid>
+    <ProjectGuid>{54A97D00-F0C6-459C-8B18-9D068F998A4D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Homework8_Commands</RootNamespace>
-    <AssemblyName>Homework8_Commands</AssemblyName>
+    <RootNamespace>HomeWork8_Command_Pasha_review_</RootNamespace>
+    <AssemblyName>HomeWork8_Command%28Pasha_review%29</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,7 +46,6 @@
     <Compile Include="Assistant.cs" />
     <Compile Include="Command.cs" />
     <Compile Include="Condition.cs" />
-    <Compile Include="Executer.cs" />
     <Compile Include="Light.cs" />
     <Compile Include="Mail.cs" />
     <Compile Include="Program.cs" />

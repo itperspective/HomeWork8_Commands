@@ -4,19 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework8_Commands
+namespace HomeWork8_Command_Pasha_review_
 {
     class Condition : Command
     {
-        
-        public Condition(Executer executer) : base(executer)
+        public Condition()
         {
             this.Name = "Turn off the condition";
         }
-
-        public override void ExecuteCommand()
+        public override void Execute()
         {
-            executer.Execute(Name);
+            Console.WriteLine("Okay I will turn off the condition");
         }
     }
 }

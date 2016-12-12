@@ -4,19 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework8_Commands
+namespace HomeWork8_Command_Pasha_review_
 {
-    public class Mail : Command
+    class Mail : Command
     {
-        
-        public Mail(Executer executer) : base(executer)
+        public Mail()
         {
             this.Name = "Send mail";
         }
-
-        public override void ExecuteCommand()
+        public override void Execute()
         {
-            executer.Execute(Name);
+            Console.WriteLine("Okay I will send a mail");
         }
     }
 }

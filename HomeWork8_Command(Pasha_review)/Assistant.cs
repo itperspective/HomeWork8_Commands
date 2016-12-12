@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework8_Commands
+namespace HomeWork8_Command_Pasha_review_
 {
-    public class Assistant
+    class Assistant
     {
         Command command;
         List<Command> commands = new List<Command>();
@@ -18,35 +18,33 @@ namespace Homework8_Commands
 
         private bool CanExecute(string userCommand)
         {
-            for (int i = 0; i<commands.Count; i++)
+            for (int i = 0; i < commands.Count; i++)
             {
-                if(commands[i].Name == userCommand)
+                if (userCommand == commands[i].Name)
                 {
                     command = commands[i];
                     return true;
                 }
             }
-
-            return false;
+             return false;   
         }
 
-        public void ExecuteCommandByAssistant(string userCommand)
+        public void ExecuteCommand(string userCommand)
         {
             if (CanExecute(userCommand))
             {
-                command.ExecuteCommand();
+                command.Execute();
             }
-
-            else { Console.WriteLine("This command is new for me. Sorry can'r execute"); }
+            else { Console.WriteLine("Dont recognize your command"); }
         }
 
         public void GetCommandsList()
         {
-            for (int i=0; i<commands.Count; i++)
+            Console.WriteLine("<<<<<<<List of available commands:");
+            for (int i = 0; i<commands.Count; i++)
             {
                 Console.WriteLine(commands[i].Name);
             }
         }
-
     }
 }
